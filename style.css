@@ -120,7 +120,7 @@ body {
 }
 
 .conteudo-principal-escrito-botao:hover {
-  background-color: rgba(236, 214, 196, 0.53);
+  background-color: rgba(236, 196, 218, 0.53);
 }
 
 .conteudo-principal-imagem {
@@ -173,6 +173,7 @@ body {
 
 .conteudo-secundario-paragrafo:hover {
   text-decoration-line: underline;
+  background-color: rgba(236, 196, 218, 0.53);
 }
 
 .rodape {
