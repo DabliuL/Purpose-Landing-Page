@@ -80,6 +80,7 @@ body {
 }
 
 .conteudo-principal-escrito {
+  padding-left: 5px;
   display: flex;
   flex-direction: column;
   gap: 32px;
@@ -123,7 +124,7 @@ body {
 }
 
 .conteudo-principal-imagem {
-  height: 430px;
+  max-height: 430px;
   border-radius: 100%;
 }
 
