@@ -142,6 +142,10 @@ body {
     align-items: center;
     gap: 32px;
   }
+  .rodape-imagem {
+    height: 36px;
+    display: block;
+  }
 }
 
 .conteudo-secundario {
@@ -190,7 +194,6 @@ body {
 }
 
 .rodape-imagem {
-  height: 480px;
+  height: 360px;
   display: block;
-  margin: 0 auto;
 }
