@@ -195,8 +195,9 @@ body {
 }
 
 .rodape-imagem {
-  height: 120px;
+  height: 100px;
   width: 360px;
+  object-fit: cover;
   display: block;
   margin: 0 auto;
 }
