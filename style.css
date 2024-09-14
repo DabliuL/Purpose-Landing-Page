@@ -145,7 +145,6 @@ body {
   .rodape-imagem {
     height: 8px;
     width: 12px;
-    object-fit: cover;
     display: block;
     margin: 0 auto;
   }
