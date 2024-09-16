@@ -151,8 +151,8 @@ body {
     gap: 32px;
   }
   .rodape-imagem {
-  height: 10px;
-  width: 48px;
+  height: 20px;
+  width: 96px;
   object-fit: cover;
   display: block;
   margin: 0 auto;
