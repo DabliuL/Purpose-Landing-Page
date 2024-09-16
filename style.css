@@ -12,6 +12,21 @@ body {
   background: linear-gradient(68.15deg, #2f2328 16.62%, #E91067 85.61%);
 }
 
+/*Barra de scroll do mouse*/
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #E91067;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ffe7f2;
+  border-radius: 7px;
+}
+
+
 .cabecalho {
   display: flex;
   flex-direction: row;
