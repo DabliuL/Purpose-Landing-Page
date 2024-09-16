@@ -151,9 +151,11 @@ body {
     gap: 32px;
   }
   .rodape-imagem {
-    max-width: 0px;
-    display: block;
-    margin: 0 auto;
+  height: 10px;
+  width: 48px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
   }
 }
 
