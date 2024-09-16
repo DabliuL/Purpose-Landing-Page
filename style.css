@@ -128,6 +128,14 @@ body {
   border-radius: 100%;
 }
 
+.rodape-imagem {
+  height: 100px;
+  width: 480px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
 @media screen and (max-width: 700px) {
   .conteudo-principal-imagem {
     max-height: 21.5px;
@@ -143,7 +151,7 @@ body {
     gap: 32px;
   }
   .rodape-imagem {
-    height: 0px;
+    max-width: 0px;
     display: block;
     margin: 0 auto;
   }
@@ -192,12 +200,4 @@ body {
 .rodape {
     padding: 32px;
     border-top: 0.4px solid #ffe7f3;
-}
-
-.rodape-imagem {
-  height: 100px;
-  width: 480px;
-  object-fit: cover;
-  display: block;
-  margin: 0 auto;
 }
